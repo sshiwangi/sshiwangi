@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shiwangi Kumari</h1>
 <h3 align="center">A passionate learner and tech enthusiast from India</h3>
-<img align="right" alt="Coding" width="400" src="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">
+<img align="right" alt="Coding" width="400" src="https://dribbble.com/shots/4502924-Python-developer-animation/attachments/10432197?mode=media">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sshiwangi&label=Profile%20views&color=0e75b6&style=flat" alt="sshiwangi" /> </p>
 
