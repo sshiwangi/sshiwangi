@@ -1,7 +1,7 @@
 # 💫 About Me:
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1738955/screenshots/15406497/media/0bd07e962f5b7acb180b77b2bdd6b9f9.gif">
 
-Hi👋, I'm Shiwangi Kumari, a 3rd year Computer science engineering undergrad and an open-source enthusiast who loves to learn and explore new things. I'm also a Microsoft Learn Student Ambassador and I'm currently learning Front End Web Development and Data Structures and Algorithms.
+👋 Hi there! I'm Shiwangi Kumari, a passionate developer who loves building things that solve real-world problems. If you have an idea or a project in mind, let's collaborate and create something amazing together! 
 
 
 ## 🌐 Socials:
